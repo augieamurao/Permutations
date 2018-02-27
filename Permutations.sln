@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Permutations", "Permutations\Permutations.csproj", "{3EC0DABA-8254-4F26-A643-D32383A8F51A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EC0DABA-8254-4F26-A643-D32383A8F51A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EC0DABA-8254-4F26-A643-D32383A8F51A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EC0DABA-8254-4F26-A643-D32383A8F51A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EC0DABA-8254-4F26-A643-D32383A8F51A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D8D0049-C590-481B-AE85-F115D5EC9667}
+	EndGlobalSection
+EndGlobal
