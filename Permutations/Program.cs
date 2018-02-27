@@ -10,7 +10,7 @@ namespace Permutations
     {
         static void Main(string[] args)
         {
-            string str = "maxi";
+            string str = "Josh";
             printPermutations(str);
             Console.ReadLine();
         }
